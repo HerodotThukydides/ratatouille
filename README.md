@@ -1,3 +1,6 @@
+# Aim of this fork
+- remodel the output to use it in a mongoDB reicpe managment application.
+
 # ratatouille
 
 ratatouille is a Node.js scrapper for allrecipes.com. It allows you to
